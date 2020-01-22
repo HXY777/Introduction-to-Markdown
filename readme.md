@@ -1,6 +1,8 @@
 # ReadMe
-The introduction.md provides some common but useful markdown basics and aim to be a starting point to learn **Markdown** on ==vs code==. It includes examples of writing latex equations and symbols; inserting code block and inline code; making quotation; inserting figures and tables, etc. 
+The introduction.md provides some common but useful markdown basics and aim to be a starting point to learn **Markdown** on **vs code**. It includes examples of writing latex equations and symbols; inserting code block and inline code; making quotation; inserting figures and tables, etc. 
 
-To run the introduction.md successfully on vs code, the Markdown Preview Enchanced need to be installed and 
+In order to run the introduction.md successfully on vs code, the extension - Markdown Preview Enchanced - needs to be installed first. Then enable the **enableExtendedTableSyntax** in **extension settings** to allow advanced table manipulation that provided by MPE. 
 
-![avatar](https://github.com/HXY777/Introduction-to-Markdown/blob/master/readme.jpeg)
+Below is the rendered outcome of introduction.md. 
+
+![avatar](https://github.com/HXY777/Introduction-to-Markdown/blob/master/readme.jpeg?raw=true)
