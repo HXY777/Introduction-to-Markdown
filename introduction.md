@@ -37,9 +37,11 @@ ______________________
 ## 4. Mathematical expression:
 First we need to install *==Markdown Preview Enhanced==* to enable Latex equation editting. This extension contains many other useful features.
 >Need to enable **enableExtendedTableSyntax** in ***extension settings*** to enable table cells merge.
+
+> Highlight content by `== text you want to highlight ==`.
 ### Inline Equation
-The dollar sign `$ write equation here $` is used to write inline equation
-For example, `$ \sum_{\forall i}{x_i^{2}} $` will generate $ \sum_{\forall i}{x_i^{2}} $,     
+The dollar sign `$ write equation here $` is used to write inline equation.
+For example, `$ \sum_{\forall i}{x_i^{2}} $` will generate $ \sum_{\forall i}{x_i^{2}} $.     
 We say function $f$ is continuous at point $x_0$ if $\forall{\epsilon}>0, \exist{\delta}\gt{0}$ such that  $| f(x) - f(x_0) | \lt \epsilon$ for all $x$ lies in the neighbourhood $(x_0-\delta, x_0+\delta)$.
 
 Use `:--|:--:|--:` to set table alignment. In this exmple, there are 3 columns in the table where first columns aligns to left, second column aligns to center and last column alians to right. You can merge cells to upper row by `^`. When one cell is empty, will merge to left column.
