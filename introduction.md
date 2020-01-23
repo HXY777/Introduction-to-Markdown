@@ -18,7 +18,7 @@ print('Hello, world!')
 For example, if you want to insert inline code, you can use \`from matplotlib import pyplot as plt\`. The outcome looks like this -`from matplotlib import pyplot as plt`
 
 ## 3. Anotherway to implement different levels...
-> \#, \## and \### can be used to make different levels of headlines
+> \#, \#\# and \#\#\# can be used to make different levels of headlines
 > Another way to make different level is presented below: 
 >?
 >\-\-\-
